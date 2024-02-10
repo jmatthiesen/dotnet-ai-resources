@@ -10,21 +10,28 @@ Inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bo
 
 # Contents
 - [Getting Started Tutorials](#getting-started)
-- [Tutorials](#tutorials)
+- [Tutorials and Samples](#tutorials-and-samples)
+  - [Working with Local Models](#working-with-local-models)
 - [Online courses](#online-courses)
-- [Orchestrators](#orchestrators)
-- [Models](#models)
+- [SDKs](#sdks]
+  - [Orchestrators](#orchestrators)
+  - [Vector Stores](#vector-store-sdks)
 - [Multi-modal (images/video/text)](#multi-modal)
 - [Working with Agents](#working-with-agents)
 - [Working with Data / Retrieval-Augmented-Generation)](#working-with-data)
 - [Building AI Copilots](#building-ai-copilots)
-- [Vector Stores/DBs with .NET support](#vector-stores)
 - [AI Services](#ai-services)
 - [Books and Documentation](#books-and-documentation)
 - [Community and Forums](#community-and-forums)
 
 # Getting Started
 - [Generative AI with .NET for Beginners](https://youtube.com/playlist?list=PLdo4fOcmZ0oW_k4_eDTPWDLUVWz7A9y0M&si=c7B1fz4oQQYHEfy2) A series of beginner videos, focused on Artificial Intelligence in .NET - Hosted by Luis Quintanilla (Microsoft)
+- [Generative AI for the .NET Developer | .NET Conf 2023](https://youtu.be/yc0Zl_UXCY4?si=ko3xGqncKakU2xSt)
+- [Building Intelligent Apps with .NET and Azure](https://www.youtube.com/watch?v=-3SrUqjq9Ic&list=PLdo4fOcmZ0oULyHSPBx-tQzePOYlhvrAU)
+- [Getting Started with OpenAI in .NET](https://devblogs.microsoft.com/dotnet/getting-started-azure-openai-dotnet/)
+- [Get started with ChatGPT in .NET](https://devblogs.microsoft.com/dotnet/get-started-chatgpt-azure-dotnet/)
+- [Level up your GPT game with prompt engineering](https://devblogs.microsoft.com/dotnet/gpt-prompt-engineering-openai-azure-dotnet/)
+- [Get started with OpenAI Completions with .NET](https://devblogs.microsoft.com/dotnet/get-started-with-open-ai-completions-with-dotnet/)
 
 # Community and Forums
 - [.NET + AI on StackOverflow](https://stackoverflow.com/questions/tagged/.net+artificial-intelligence)
@@ -34,22 +41,28 @@ Inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bo
 - [Build your own Course Assistant with AI](https://youtu.be/BRaltelZt6U?si=uuUvRc_9jSW4L601) "Are you using Azure OpenAI Service to build Copilot applications? Do you understand the concept of Copilot Stack? In this session we will use Semantic Kernel to build your first Copilot application based on Copilot Stack." - Hosted by Luis Quintanilla (Microsoft) and Kinfey Lo (Microsoft)
 - [Coding a drone using .NET & ChatGPT AI and flying in mixed reality](https://youtu.be/5ChGYf10z1M?si=oxHXQyO60EEzsxE6) - Zaid Zaim
 - [Building generative AI powered bots with Teams Toolkit and AI library for .NET | .NET Conf 2023](https://youtu.be/E6sEr3OrwgA?si=VmL5yUr3B21yU83u)
-- [Generative AI for the .NET Developer | .NET Conf 2023](https://youtu.be/yc0Zl_UXCY4?si=ko3xGqncKakU2xSt)
 - [Start your AI and .NET Adventure with #30DaysOfAzureAI](https://www.youtube.com/watch?v=567890)
 
 # Online Courses
 - [Generative AI for .NET Developers with Google AI](https://www.linkedin.com/feed/update/urn:li:activity:7137936525010354176/)
 
-# Samples
-## Working with local Models
-- [Torchsharp Phi](https://github.com/LittleLittleCloud/Torchsharp-phi)
-- [Torchsharp Llama2](https://github.com/LittleLittleCloud/Torchsharp-llama)
+# Tutorials and Samples
+## Reference Applications
+- [Azure Search with OpenAI - C# Sample](https://github.com/Azure-Samples/azure-search-openai-demo-csharp/) - [Documentation](https://devblogs.microsoft.com/dotnet/transform-business-smart-dotnet-apps-azure-chatgpt/) ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search (.NET) 
+- [eShop Reference Application](https://github.com/dotnet/eShop/) - [Documentation](https://learn.microsoft.com/en-us/dotnet/azure/ai/get-started-app-chat-template?tabs=github-codespaces)
+  
+## Working with Local Models
+- [Using Phi2 with Torchsharp](https://github.com/LittleLittleCloud/Torchsharp-phi)
+- [Using Llama2 with Torchsharp](https://github.com/LittleLittleCloud/Torchsharp-llama)
 
 ## Multi-modal
+- [Generate images with AI using Stable Diffusion, C#, and ONNX Runtime](https://devblogs.microsoft.com/dotnet/generate-ai-images-stable-diffusion-csharp-onnx-runtime/)
 
 ## Working with Agents
 
 ## Working with Data
+
+- [Demystifying Retrieval Augmented Generation with .NET](https://devblogs.microsoft.com/dotnet/demystifying-retrieval-augmented-generation-with-dotnet/)
 
 ## Building AI Copilots
 
