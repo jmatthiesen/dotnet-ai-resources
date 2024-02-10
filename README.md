@@ -38,7 +38,7 @@ Inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bo
 - [Start your AI and .NET Adventure with #30DaysOfAzureAI](https://www.youtube.com/watch?v=567890)
 
 # Online Courses
-- (Generative AI for .NET Developers with Google AI)[https://www.linkedin.com/feed/update/urn:li:activity:7137936525010354176/]
+- [Generative AI for .NET Developers with Google AI](https://www.linkedin.com/feed/update/urn:li:activity:7137936525010354176/)
 
 # Samples
 ## Working with local Models
