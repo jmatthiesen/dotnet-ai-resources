@@ -1,4 +1,4 @@
-> A curated list of .NET + Generative AI resources
+# A curated list of .NET + AI resources, focused on generative AI and Large Language Models (LLMs)
 
 Interested in working with generative artificial intelligence (AI) in .NET? Here's a collection of samples, tutorials, SDKs, documentation, and videos to help you get started and go deeper.
 
@@ -33,6 +33,10 @@ Inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bo
 - [Level up your GPT game with prompt engineering](https://devblogs.microsoft.com/dotnet/gpt-prompt-engineering-openai-azure-dotnet/)
 - [Get started with OpenAI Completions with .NET](https://devblogs.microsoft.com/dotnet/get-started-with-open-ai-completions-with-dotnet/)
 
+# News & Social media
+- [.NET + AI news from the .NET Blog](https://devblogs.microsoft.com/dotnet/category/ai/)
+- 
+
 # Community and Forums
 - [.NET + AI on StackOverflow](https://stackoverflow.com/questions/tagged/.net+artificial-intelligence)
 - [Azure AI Community](https://discord.com/invite/ByRwuEEgH4) Discord community for discussions about Azure AI.
@@ -48,8 +52,8 @@ Inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bo
 
 # Tutorials and Samples
 ## Reference Applications
-- [Azure Search with OpenAI - C# Sample](https://github.com/Azure-Samples/azure-search-openai-demo-csharp/) - [Documentation](https://devblogs.microsoft.com/dotnet/transform-business-smart-dotnet-apps-azure-chatgpt/) ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search (.NET) 
-- [eShop Reference Application](https://github.com/dotnet/eShop/) - [Documentation](https://learn.microsoft.com/en-us/dotnet/azure/ai/get-started-app-chat-template?tabs=github-codespaces)
+- [Azure Search with OpenAI - C# Sample](https://github.com/Azure-Samples/azure-search-openai-demo-csharp/) - [Documentation](https://learn.microsoft.com/dotnet/azure/ai/get-started-app-chat-template?tabs=github-codespaces) | [Announcement Post](https://devblogs.microsoft.com/dotnet/transform-business-smart-dotnet-apps-azure-chatgpt/) ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search (.NET) 
+- [eShop Reference Application](https://github.com/dotnet/eShop/)
   
 ## Working with Local Models
 - [Using Phi2 with Torchsharp](https://github.com/LittleLittleCloud/Torchsharp-phi)
@@ -63,6 +67,7 @@ Inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bo
 ## Working with Data
 
 - [Demystifying Retrieval Augmented Generation with .NET](https://devblogs.microsoft.com/dotnet/demystifying-retrieval-augmented-generation-with-dotnet/)
+- [AugmentR](https://github.com/bradygaster/AugmentR) - An example chat bot demonstrating the use of Semantic Kernel in a .NET Aspire project, augmenting chats with data from public internet URLs.
 
 ## Building AI Copilots
 
