@@ -1,6 +1,5 @@
-# A curated list of .NET + AI resources, focused on generative AI and Large Language Models (LLMs)
-
-Interested in working with generative artificial intelligence (AI) in .NET? Here's a collection of samples, tutorials, SDKs, documentation, and videos to help you get started and go deeper.
+# A curated list of .NET + AI resources
+Interested in working with AI in .NET? Here's a collection of samples, tutorials, SDKs, and videos to help you get started and go deeper. Topics covered currently include generative artificial intelligence (GenAI) and large language models (LLMs).
 
 Inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks), [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks), [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning), [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) and [awesome-dotnet](https://github.com/quozd/awesome-dotnet).
 
