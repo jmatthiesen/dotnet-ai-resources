@@ -80,8 +80,8 @@ Inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bo
 
 ## Orchestrators
 
-- [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
-- [LangChain (Unofficial SDK)](https://github.com/tryAGI/LangChain/)
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - SDK built by Microsoft that lets you "build agents that can call your existing code." Provides native support for working in .NET.
+- [LangChain](https://github.com/tryAGI/LangChain/) **[Unofficial]** - .NET implementation of the popular LangChain Python project. Note: Currently it's in an early state, and looking for contributors!
   
 ## Vector Store SDKs
 
