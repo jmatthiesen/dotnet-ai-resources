@@ -4,9 +4,13 @@ Interested in working with AI in .NET? Here's a collection of samples, tutorials
 
 Inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks), [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks), [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning), [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) and [awesome-dotnet](https://github.com/quozd/awesome-dotnet).
 
+Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard pages first](CONTRIBUTING.md). If you find issues with the content/links here, you can also [report them](https://github.com/jmatthiesen/dotnet-ai-resources/issues). If you have general feedback, or have a request for a specific sample, feel free to ask in the [Discussions](https://github.com/jmatthiesen/dotnet-ai-resources/discussions) section as well.
+
 # License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https://github.com/jmatthiesen), and inclusion here doesn't imply a direct endorsement from me or my employer. I'm including projects I (and other contributors) find useful and think that the broader .NET developer community will find helpful. Feedback is welcome!
 
 # Contents
 - [Getting Started](#getting-started)
@@ -35,13 +39,16 @@ Inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bo
 - [Get started with OpenAI Completions with .NET](https://devblogs.microsoft.com/dotnet/get-started-with-open-ai-completions-with-dotnet/)
 
 # News & Social media
+
 - [.NET + AI news from the .NET Blog](https://devblogs.microsoft.com/dotnet/category/ai/)
 
 # Community and Forums
+
 - [.NET + AI on StackOverflow](https://stackoverflow.com/questions/tagged/.net+artificial-intelligence)
 - [Azure AI Community](https://discord.com/invite/ByRwuEEgH4) Discord community for discussions about Azure AI.
 
 # Online Courses
+
 - [Generative AI for .NET Developers with Google AI](https://www.linkedin.com/feed/update/urn:li:activity:7137936525010354176/)
 
 # Tutorials and Samples
