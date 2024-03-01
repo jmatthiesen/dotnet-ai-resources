@@ -18,10 +18,11 @@ To stay on the list, projects should follow these quality standards:
 
 * Generally useful to the community
 * Actively maintained (even if that just means acknowledging open issues when they arise)
+* Uses current tech/techniques (AI is a rapidly changing space and we want to try and share resources that are currently relevant)
 
 ## Research projects
 
-If you are to include a research or academic project, please use the `**[Research]**` tag.
+If you include a research or academic project, please use the `**[Research]**` tag.
 
 ## Proprietary/commercial software notice
 
