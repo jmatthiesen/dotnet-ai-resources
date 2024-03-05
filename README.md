@@ -19,6 +19,7 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 - [Tutorials and Samples](#tutorials)
   - [Working with Local Models](#working-with-local-models)
   - [Working with Data / Retrieval-Augmented-Generation)](#working-with-data)
+  - [Include AI in different workloads/app types](#include-ai-in-different-workloadsapp-types)
 - [SDKs](#sdks)
   - [Orchestrators](#orchestrators)
   - [Vector Stores](#vector-store-sdks)
@@ -63,6 +64,7 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 ## Using Multi-modal Models
 
+- [Generate images with Azure OpenAI Servide](https://learn.microsoft.com/en-us/azure/ai-services/openai/dall-e-quickstart?tabs=dalle3%2Ccommand-line&pivots=programming-language-csharp) - Quick start tutorial showing how to use the Azure OpenAI SDK for C# to generate images using DALL-E.
 - [Generate images with AI using Stable Diffusion, C#, and ONNX Runtime](https://devblogs.microsoft.com/dotnet/generate-ai-images-stable-diffusion-csharp-onnx-runtime/) - Overview of how you could access the Stable Diffusion model to generate images using .NET with the ONNX runtime
 
 ## Working with Data
@@ -70,11 +72,13 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 - [Demystifying Retrieval Augmented Generation with .NET](https://devblogs.microsoft.com/dotnet/demystifying-retrieval-augmented-generation-with-dotnet/) - A detailed walkthrough of how to work with your data in .NET, using the concept known as Retrieval Augmented Generation.
 - [AugmentR](https://github.com/bradygaster/AugmentR) - An example chat bot demonstrating the use of Semantic Kernel in a .NET Aspire project, augmenting chats with data from public internet URLs.
 - [Vector Search AI Assistant](https://github.com/Azure/Vector-Search-AI-Assistant/tree/cognitive-search-vector) - Demo app showing how to combine data from CosmosDB, with Azure OpenAI Services and queries against cognitive search to create an AI search assistant.
-- [Vector Search AI Assistant with MongoDB](https://github.com/Azure/Vector-Search-AI-Assistant-MongoDBvCore) - Demo app showing how to combine data from Azure CosmosDB for MongoDB, with queries against Azure OpenAI Services. 
+- [Vector Search AI Assistant with MongoDB](https://github.com/Azure/Vector-Search-AI-Assistant-MongoDBvCore) - Demo app showing how to combine data from Azure CosmosDB for MongoDB, with queries against Azure OpenAI Services.
 
-## Incorporating AI into different workloads/app types
+## Include AI in different workloads/app types
 
+### Teams
 - [Building generative AI powered bots with Teams Toolkit and AI library for .NET | .NET Conf 2023](https://youtu.be/E6sEr3OrwgA?si=VmL5yUr3B21yU83u) - How to create bots for use in Microsoft Teams, using generative AI and .NET.
+- [Enable Hybrid Search (Vector + Semantic) for your external data on Copilot for Microsoft 365 using Azure AI Search and .NET](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/officedev-copilot-for-m365-plugins-samples-msgext-doc-search-csharp/) - Microsoft sample showing how to integrate Azure Search in a Teams message extension.
 
 # SDKs
 
@@ -93,5 +97,4 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 - [Azure OpenAI](https://learn.microsoft.com/en-us/azure/ai-services/openai/) - An overview of the Azure OpenAI service and including [Quick Start samples for .NET](https://learn.microsoft.com/en-us/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Cpython&pivots=programming-language-csharp).
 - [Azure OpenAI Service Samples](https://github.com/Azure-Samples/openai/) - Sample notebooks demonstrating how to use the Azure OpenAI SDK, with may samples in C#/.NET as Polyglot Notebooks.
-
-
+- [Azure Functions bindings for OpenAI's GPT engine](https://github.com/Azure/azure-functions-openai-extension) - **[In Development]** Very early review of new OpenAI bindings in Azure Functions, including support for C#.
