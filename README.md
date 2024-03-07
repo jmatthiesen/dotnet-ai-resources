@@ -19,6 +19,7 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 - [Tutorials and Samples](#tutorials)
   - [Working with Local Models](#working-with-local-models)
   - [Working with Data / Retrieval-Augmented-Generation)](#working-with-data)
+  - [Using Assistants/Agents](#using-assistants--agents)
   - [Include AI in different workloads/app types](#include-ai-in-different-workloadsapp-types)
 - [SDKs](#sdks)
   - [Orchestrators](#orchestrators)
@@ -73,6 +74,10 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 - [AugmentR](https://github.com/bradygaster/AugmentR) - An example chat bot demonstrating the use of Semantic Kernel in a .NET Aspire project, augmenting chats with data from public internet URLs.
 - [Vector Search AI Assistant](https://github.com/Azure/Vector-Search-AI-Assistant/tree/cognitive-search-vector) - Demo app showing how to combine data from CosmosDB, with Azure OpenAI Services and queries against cognitive search to create an AI search assistant.
 - [Vector Search AI Assistant with MongoDB](https://github.com/Azure/Vector-Search-AI-Assistant-MongoDBvCore) - Demo app showing how to combine data from Azure CosmosDB for MongoDB, with queries against Azure OpenAI Services.
+
+## Using Assistants/Agents
+
+- [Azure OpenAI: OpenAI Assistants client library](https://learn.microsoft.com/en-us/dotnet/api/overview/azure/ai.openai.assistants-readme?view=azure-dotnet-preview) - **[Pre-release]** Reference documentation for the OpenAI Assistants support in the Azure OpenAI SDK, includes example code.
 
 ## Include AI in different workloads/app types
 
