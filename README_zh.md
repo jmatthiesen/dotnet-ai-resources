@@ -57,7 +57,7 @@
 ## 参考应用程序
 
 - [Azure Search with OpenAI - C#示例](https://github.com/Azure-Samples/azure-search-openai-demo-csharp/) - [文档](https://learn.microsoft.com/dotnet/azure/ai/get-started-app-chat-template?tabs=github-codespaces) | [公告帖子](https://devblogs.microsoft.com/dotnet/transform-business-smart-dotnet-apps-azure-chatgpt/) ChatGPT + 企业数据与Azure OpenAI和认知搜索（.NET）
-- [eShop参考应用程序](https://github.com/dotnet/eShop/)
+- [eShop](https://github.com/dotnet/eShop/)
 
 ## 使用本地模型
 
