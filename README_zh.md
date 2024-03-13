@@ -62,7 +62,7 @@
 ## 使用本地模型
 
 - [Torchsharp-phi](https://github.com/LittleLittleCloud/Torchsharp-phi) - 一个基于Torchsharp实现的Phi模型。
-- [使用TorchSharp操作Llama2](https://github.com/LittleLittleCloud/Torchsharp-llama) - 这个示例展示了如何使用.NET和[TorchSharp](https://github.com/dotnet/TorchSharp)库的帮助，在本地系统中使用Llama2模型。
+- [使用TorchSharp操作Llama2](https://github.com/LittleLittleCloud/Torchsharp-llama) -一个基于Torchsharp实现的llama-2模型。
 
 ## 使用多模态模型
 
