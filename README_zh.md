@@ -64,7 +64,7 @@
 - [使用TorchSharp操作Phi2](https://github.com/LittleLittleCloud/Torchsharp-phi) - 一个演示如何在本地系统中访问Phi2模型的示例，使用.NET和[TorchSharp](https://github.com/dotnet/TorchSharp)库的帮助。
 - [使用TorchSharp操作Llama2](https://github.com/LittleLittleCloud/Torchsharp-llama) - 这个示例展示了如何使用.NET和[TorchSharp](https://github.com/dotnet/TorchSharp)库的帮助，在本地系统中使用Llama2模型。
 
-## 使用多模式模型
+## 使用多模态模型
 
 - [使用Azure OpenAI服务生成图像](https://learn.microsoft.com/en-us/azure/ai-services/openai/dall-e-quickstart?tabs=dalle3%2Ccommand-line&pivots=programming-language-csharp) - 快速入门教程，展示如何使用Azure OpenAI SDK for C#来使用DALL-E生成图像。
 - [使用AI生成图像，使用Stable Diffusion、C#和ONNX运行时](https://devblogs.microsoft.com/dotnet/generate-ai-images-stable-diffusion-csharp-onnx-runtime/) - 关于如何使用ONNX运行时和.NET访问Stable Diffusion模型来生成图像的概述
