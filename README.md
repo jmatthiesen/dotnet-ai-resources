@@ -1,4 +1,5 @@
 # A curated list of .NET + AI resources
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Interested in working with AI in .NET? Here's a collection of samples, tutorials, SDKs, and videos to help you get started and go deeper. Topics covered currently include generative artificial intelligence (GenAI) and large language models (LLMs).
 
