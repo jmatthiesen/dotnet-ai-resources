@@ -76,7 +76,7 @@
 - [Vector Search AI助手](https://github.com/Azure/Vector-Search-AI-Assistant/tree/cognitive-search-vector) - 演示如何结合来自CosmosDB的数据，并通过认知搜索进行查询，创建AI搜索助手的应用程序。
 - [使用MongoDB的Vector Search AI助手](https://github.com/Azure/Vector-Search-AI-Assistant-MongoDBvCore) - 演示如何结合来自Azure CosmosDB for MongoDB的数据，并通过Azure OpenAI服务进行查询的应用程序。
 
-## 使用助手/代理
+## 使用 Assistants/Agents
 
 - [Azure OpenAI：OpenAI助手客户端库](https://learn.microsoft.com/en-us/dotnet/api/overview/azure/ai.openai.assistants-readme?view=azure-dotnet-preview) - **[预发布]** Azure OpenAI SDK中OpenAI助手支持的参考文档，包括示例代码。
 
