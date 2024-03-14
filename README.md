@@ -82,7 +82,13 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 ## Include AI in different workloads/app types
 
+### .NET MAUI - Mobile Development
+
+- [Tutorial: Create a recommendation app with .NET MAUI and ChatGPT](https://learn.microsoft.com/en-us/windows/apps/windows-dotnet-maui/tutorial-maui-ai) - Guided tutorial walking through how to create a simple .NET MAUI application that works with ChatGPT.
+- [Quickstart: Add DALL-E to your .NET MAUI Windows desktop app](https://learn.microsoft.com/en-us/windows/apps/windows-dotnet-maui/dall-e-maui-windows) - Guided tutorial walking through how to create a simple .NET MAUI application that generates images using DALL-E.
+
 ### Teams
+
 - [Building generative AI powered bots with Teams Toolkit and AI library for .NET | .NET Conf 2023](https://youtu.be/E6sEr3OrwgA?si=VmL5yUr3B21yU83u) - How to create bots for use in Microsoft Teams, using generative AI and .NET.
 - [Enable Hybrid Search (Vector + Semantic) for your external data on Copilot for Microsoft 365 using Azure AI Search and .NET](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/officedev-copilot-for-m365-plugins-samples-msgext-doc-search-csharp/) - Microsoft sample showing how to integrate Azure Search in a Teams message extension.
 
