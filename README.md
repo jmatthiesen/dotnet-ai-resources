@@ -102,8 +102,9 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 ## Vector Store SDKs
 
 - [Milvus C# SDK](https://milvus.io/docs/v2.2.x/install-csharp.md) - A .NET SDK for working with the Milvus vector DB solution.
-- [Qdrant .NET SDK](https://github.com/qdrant/qdrant-dotnet) - SDK for working with the Qdrant vector DB.
 - [Pinecone](https://github.com/neon-sunset/Pinecone.NET) - **[Unofficial]** Community supported SDK for working with the Pinecone vector DB.
+- [Qdrant .NET SDK](https://github.com/qdrant/qdrant-dotnet) - SDK for working with the Qdrant vector DB.
+- [Weaviate](https://github.com/Unipisa/WeaviateNET) - **[Unofficial]** Community supported SDK for using the Weaviate vector DB.
 
 ## AI Services
 
