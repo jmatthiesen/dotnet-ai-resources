@@ -78,7 +78,7 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 ## Using Assistants/Agents
 
-- [Azure OpenAI: OpenAI Assistants client library](https://learn.microsoft.com/en-us/dotnet/api/overview/azure/ai.openai.assistants-readme?view=azure-dotnet-preview) - **[Pre-release]** Reference documentation for the OpenAI Assistants support in the Azure OpenAI SDK, includes example code.
+- [Getting started using Azure OpenAI Assistants (with C#)]([https://learn.microsoft.com/en-us/dotnet/api/overview/azure/ai.openai.assistants-readme?view=azure-dotnet-preview](https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-quickstart?tabs=command-line&pivots=programming-language-csharp)) - **[Pre-release]** A walkthrough showing how to use AI assistants with the Azure OpenAI SDK and C#.
 
 ## Include AI in different workloads/app types
 
