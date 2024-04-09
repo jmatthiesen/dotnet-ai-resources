@@ -93,9 +93,12 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 # SDKs
 
+## Semantic Kernel
+- [Overview - Semantic Kernel](https://github.com/microsoft/semantic-kernel) - SDK built by Microsoft that lets you "build agents that can call your existing code." Provides native support for working in .NET.
+- [Semantic Kernel Cookbook](https://github.com/microsoft/SemanticKernelCookBook) - A set of examples for achieving common tasks using Semantic Kernel, with Polyglot Notebooks available for .NET developers.
+
 ## Orchestrators
 
-- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - SDK built by Microsoft that lets you "build agents that can call your existing code." Provides native support for working in .NET.
 - [LangChain](https://github.com/tryAGI/LangChain/) **[Unofficial]** - .NET implementation of the popular LangChain Python project. Note: Currently it's in an early state, and looking for contributors!
   
 ## Vector Store SDKs
