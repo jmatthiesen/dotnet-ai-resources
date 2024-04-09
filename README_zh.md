@@ -52,7 +52,6 @@
 ## 教程
 
 - [用AI构建你自己的课程助手](https://youtu.be/BRaltelZt6U?si=uuUvRc_9jSW4L601) "你在使用Azure OpenAI服务构建Copilot应用吗？你理解Copilot Stack的概念吗？在这次会议中，我们将使用Semantic Kernel构建您的第一个基于Copilot Stack的Copilot应用程序。" - 由Luis Quintanilla（微软）和Kinfey Lo（微软）主持
-- [用#30DaysOfAzureAI开始你的AI和.NET之旅](https://www.youtube.com/watch?v=567890)
 
 ## 参考应用程序
 
