@@ -52,7 +52,6 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 ## Tutorials
 
 - [Build your own Course Assistant with AI](https://youtu.be/BRaltelZt6U?si=uuUvRc_9jSW4L601) "Are you using Azure OpenAI Service to build Copilot applications? Do you understand the concept of Copilot Stack? In this session we will use Semantic Kernel to build your first Copilot application based on Copilot Stack." - Hosted by Luis Quintanilla (Microsoft) and Kinfey Lo (Microsoft)
-- [Start your AI and .NET Adventure with #30DaysOfAzureAI](https://www.youtube.com/watch?v=567890)
 - [Demystifying LLMS From Zero to Hero, with Azure OpenAI, DotNet, Semantic Kernel and OpenTelemetry](https://www.youtube.com/playlist?list=PLPK0YODPQ5naaUwDNFay0mlRwaV_AbrX6)
 
 ## Reference Applications
@@ -79,7 +78,7 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 ## Using Assistants/Agents
 
-- [Azure OpenAI: OpenAI Assistants client library](https://learn.microsoft.com/en-us/dotnet/api/overview/azure/ai.openai.assistants-readme?view=azure-dotnet-preview) - **[Pre-release]** Reference documentation for the OpenAI Assistants support in the Azure OpenAI SDK, includes example code.
+- [Getting started using Azure OpenAI Assistants (with C#)]([https://learn.microsoft.com/en-us/dotnet/api/overview/azure/ai.openai.assistants-readme?view=azure-dotnet-preview](https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-quickstart?tabs=command-line&pivots=programming-language-csharp)) - **[Pre-release]** A walkthrough showing how to use AI assistants with the Azure OpenAI SDK and C#.
 
 ## Include AI in different workloads/app types
 
@@ -95,9 +94,12 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 # SDKs
 
+## Semantic Kernel
+- [Overview - Semantic Kernel](https://github.com/microsoft/semantic-kernel) - SDK built by Microsoft that lets you "build agents that can call your existing code." Provides native support for working in .NET.
+- [Semantic Kernel Cookbook](https://github.com/microsoft/SemanticKernelCookBook) - A set of examples for achieving common tasks using Semantic Kernel, with Polyglot Notebooks available for .NET developers.
+
 ## Orchestrators
 
-- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - SDK built by Microsoft that lets you "build agents that can call your existing code." Provides native support for working in .NET.
 - [LangChain](https://github.com/tryAGI/LangChain/) **[Unofficial]** - .NET implementation of the popular LangChain Python project. Note: Currently it's in an early state, and looking for contributors!
   
 ## Vector Store SDKs
