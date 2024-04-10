@@ -52,7 +52,7 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 ## Tutorials
 
 - [Build your own Course Assistant with AI](https://youtu.be/BRaltelZt6U?si=uuUvRc_9jSW4L601) "Are you using Azure OpenAI Service to build Copilot applications? Do you understand the concept of Copilot Stack? In this session we will use Semantic Kernel to build your first Copilot application based on Copilot Stack." - Hosted by Luis Quintanilla (Microsoft) and Kinfey Lo (Microsoft)
-- [A video series tutorial to create a production-ready LLM tool using Azure OpenAI, DotNet, Semantic Kernel and OpenTelemetry](https://www.youtube.com/playlist?list=PLPK0YODPQ5naaUwDNFay0mlRwaV_AbrX6)
+- [Semantic Kernel tutorial with dotnet: From Zero to Raccoon-Hero](https://www.youtube.com/playlist?list=PLPK0YODPQ5naaUwDNFay0mlRwaV_AbrX6) - A video series tutorial showing how to create a production-ready LLM tool using Azure OpenAI, .NET, Semantic Kernel and OpenTelemetry.
 
 ## Reference Applications
 
