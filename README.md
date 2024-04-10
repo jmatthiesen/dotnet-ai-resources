@@ -20,7 +20,7 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 - [Tutorials and Samples](#tutorials)
   - [Working with Local Models](#working-with-local-models)
   - [Working with Data / Retrieval-Augmented-Generation)](#working-with-data)
-  - [Using Assistants/Agents](#using-assistants--agents)
+  - [Using Assistants/Agents](using-assistantsagents)
   - [Include AI in different workloads/app types](#include-ai-in-different-workloadsapp-types)
 - [SDKs](#sdks)
   - [Orchestrators](#orchestrators)
@@ -30,6 +30,7 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 # Getting Started
 
 - [Generative AI with .NET for Beginners](https://youtube.com/playlist?list=PLdo4fOcmZ0oW_k4_eDTPWDLUVWz7A9y0M&si=c7B1fz4oQQYHEfy2) - An introductory course from Microsoft, summarizing the differences betwen Generative AI, Machine Learning (ML) and how you can get started with both.
+  - [Source code for AI Beginner Series](https://github.com/dotnet/beginner-series/tree/main/Artificial%20Intelligence%20and%20Machine%20Learning) - The presentation and sample source from the above intro series.
 - [Generative AI for the .NET Developer | .NET Conf 2023](https://youtu.be/yc0Zl_UXCY4?si=ko3xGqncKakU2xSt) - .NET Conf 2023 session: Intro to Generative AI - a 30 minute intro to the core concepts of Gen AI along with sample code.
 - [Building Intelligent Apps with .NET and Azure](https://www.youtube.com/watch?v=-3SrUqjq9Ic&list=PLdo4fOcmZ0oULyHSPBx-tQzePOYlhvrAU) - .NET Conf 2023 session with a guided walkthrough to using OpenAI APIs, through the Azure OpenAI SDK, with .NET.
 - [OpenAI with .NET Samples Notebook](https://github.com/Azure-Samples/openai-dotnet-samples) | [Announcement Post](https://devblogs.microsoft.com/dotnet/getting-started-azure-openai-dotnet/) - Lots of sample notebooks (using Polyglot notebooks) showing how to perform various actions against OpenAI with .NET.
@@ -77,7 +78,7 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 ## Using Assistants/Agents
 
-- [Getting started using Azure OpenAI Assistants (with C#)]([https://learn.microsoft.com/en-us/dotnet/api/overview/azure/ai.openai.assistants-readme?view=azure-dotnet-preview](https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-quickstart?tabs=command-line&pivots=programming-language-csharp)) - **[Pre-release]** A walkthrough showing how to use AI assistants with the Azure OpenAI SDK and C#.
+- [Getting started using Azure OpenAI Assistants with C#](https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-quickstart?tabs=command-line&pivots=programming-language-csharp) - **[Pre-release]** A walkthrough showing how to use AI assistants with the Azure OpenAI SDK and C#.
 
 ## Include AI in different workloads/app types
 
