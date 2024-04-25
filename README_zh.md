@@ -71,6 +71,7 @@
 ## 处理数据
 
 - [用.NET揭开检索增强生成功能的神秘面纱](https://devblogs.microsoft.com/dotnet/demystifying-retrieval-augmented-generation-with-dotnet/) - 关于如何在.NET中用称为检索增强生成的概念处理数据的详细指南。
+- [用Redis让.NET智能应用更智慧以及一致](https://devblogs.microsoft.com/dotnet/redis-makes-intelligent-apps-smarter-and-consistent/) 关于如何将Redis运用成智能应用的多功能数据存储。例如检索增强生成，向量搜索查询， 语义缓存
 - [AugmentR](https://github.com/bradygaster/AugmentR) - 一个示例聊天机器人，展示了如何在.NET Aspire项目中使用Semantic Kernel，通过公共互联网URL的数据增强聊天。
 - [Vector Search AI助手](https://github.com/Azure/Vector-Search-AI-Assistant/tree/cognitive-search-vector) - 演示如何结合来自CosmosDB的数据，并通过认知搜索进行查询，创建AI搜索助手的应用程序。
 - [使用MongoDB的Vector Search AI助手](https://github.com/Azure/Vector-Search-AI-Assistant-MongoDBvCore) - 演示如何结合来自Azure CosmosDB for MongoDB的数据，并通过Azure OpenAI服务进行查询的应用程序。
@@ -95,6 +96,8 @@
 
 ## 向量存储SDK
 
+- [NRedis Stack .NET SDK](https://github.com/redis/NRedisStack) - 用Redis做向量搜索的.NET开发工具库
+- [Redis OM for .NET](https://redis.io/docs/latest/integrate/redisom-for-net/) - 用Redis做对象搜索和语义缓存的.NET开发框架
 - [Milvus C# SDK](https://milvus.io/docs/v2.2.x/install-csharp.md) - 用于与Milvus向量DB解决方案一起工作的.NET SDK。
 - [Qdrant .NET SDK](https://github.com/qdrant/qdrant-dotnet) - SDK用于与Qdrant向量DB一起工作。
 - [Pinecone](https://github.com/neon-sunset/Pinecone.NET) - **[非官方]** 社区支持的SDK，用于与Pinecone向量DB一起工作。

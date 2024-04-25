@@ -73,6 +73,7 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 ## Working with Data
 
 - [Demystifying Retrieval Augmented Generation with .NET](https://devblogs.microsoft.com/dotnet/demystifying-retrieval-augmented-generation-with-dotnet/) - A detailed walkthrough of how to work with your data in .NET, using the concept known as Retrieval Augmented Generation.
+- [Making AI powered .NET apps more consistent and intelligent with Redis](https://devblogs.microsoft.com/dotnet/redis-makes-intelligent-apps-smarter-and-consistent/) - A walkthrough on using Redis as the multi-purpose data store for intelligent apps. Highligint Retrievel Augmented Generation and Semantic Caching with Redis. 
 - [AugmentR](https://github.com/bradygaster/AugmentR) - An example chat bot demonstrating the use of Semantic Kernel in a .NET Aspire project, augmenting chats with data from public internet URLs.
 - [Vector Search AI Assistant](https://github.com/Azure/Vector-Search-AI-Assistant/tree/cognitive-search-vector) - Demo app showing how to combine data from CosmosDB, with Azure OpenAI Services and queries against cognitive search to create an AI search assistant.
 - [Vector Search AI Assistant with MongoDB](https://github.com/Azure/Vector-Search-AI-Assistant-MongoDBvCore) - Demo app showing how to combine data from Azure CosmosDB for MongoDB, with queries against Azure OpenAI Services.
@@ -105,6 +106,8 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
   
 ## Vector Store SDKs
 
+- [NRedis Stack .NET SDK](https://github.com/redis/NRedisStack) - A .NET SDK for working with Redis Enterprise for Vector Similarity Search
+- [Redis OM for .NET](https://redis.io/docs/latest/integrate/redisom-for-net/) - A .NET SDK for Redis Search, Object Mapping, and Semantic Caching
 - [Milvus C# SDK](https://milvus.io/docs/v2.2.x/install-csharp.md) - A .NET SDK for working with the Milvus vector DB solution.
 - [Pinecone](https://github.com/neon-sunset/Pinecone.NET) - **[Unofficial]** Community supported SDK for working with the Pinecone vector DB.
 - [Qdrant .NET SDK](https://github.com/qdrant/qdrant-dotnet) - SDK for working with the Qdrant vector DB.
