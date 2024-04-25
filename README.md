@@ -77,6 +77,7 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 - [AugmentR](https://github.com/bradygaster/AugmentR) - An example chat bot demonstrating the use of Semantic Kernel in a .NET Aspire project, augmenting chats with data from public internet URLs.
 - [Vector Search AI Assistant](https://github.com/Azure/Vector-Search-AI-Assistant/tree/cognitive-search-vector) - Demo app showing how to combine data from CosmosDB, with Azure OpenAI Services and queries against cognitive search to create an AI search assistant.
 - [Vector Search AI Assistant with MongoDB](https://github.com/Azure/Vector-Search-AI-Assistant-MongoDBvCore) - Demo app showing how to combine data from Azure CosmosDB for MongoDB, with queries against Azure OpenAI Services.
+- [Samples for Retrieval Augmented Generation on Azure](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples/) - Includes many examples in C# showing how to work with CosmosDB + MongoDB or NoSQL.
 
 ## Using Assistants/Agents
 
