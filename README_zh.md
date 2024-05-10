@@ -24,7 +24,7 @@
   - [使用助手/代理](#using-assistants--agents)
   - [在不同工作负载/应用类型中包含AI](#include-ai-in-different-workloadsapp-types)
 - [SDK](#sdks)
-  - [Semantic Kernel](#semantickernel)
+  - [Semantic Kernel](#semantic-kernel)
   - [协调器](#orchestrators)
   - [向量存储SDK](#vector-store-sdks)
 - [AI服务](#ai-services)
