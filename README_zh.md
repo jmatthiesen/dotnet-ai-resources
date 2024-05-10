@@ -1,4 +1,5 @@
 # .NET和人工智能资源精选列表
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 如果您有兴趣在.NET中使用人工智能（AI），这里有一系列示例、教程、SDK和视频帮助您入门并深入理解。目前涵盖的主题包括生成式人工智能（GenAI）和大型语言模型（LLMs）。
 
@@ -23,6 +24,7 @@
   - [使用助手/代理](#using-assistants--agents)
   - [在不同工作负载/应用类型中包含AI](#include-ai-in-different-workloadsapp-types)
 - [SDK](#sdks)
+  - [Semantic Kernel](#semantickernel)
   - [协调器](#orchestrators)
   - [向量存储SDK](#vector-store-sdks)
 - [AI服务](#ai-services)
@@ -30,6 +32,7 @@
 # 入门
 
 - [针对初学者的.NET中的生成式AI](https://youtube.com/playlist?list=PLdo4fOcmZ0oW_k4_eDTPWDLUVWz7A9y0M&si=c7B1fz4oQQYHEfy2) - 微软提供的入门课程，总结了生成式AI、机器学习（ML）之间的差异，以及如何入门。
+  -  [AI 初学者系列的源代码](https://github.com/dotnet/beginner-series/tree/main/Artificial%20Intelligence%20and%20Machine%20Learning) - 上述介绍系列中的演示文稿和示例源代码。
 - [.NET Conf 2023上的.NET开发者的生成式AI | .NET Conf 2023](https://youtu.be/yc0Zl_UXCY4?si=ko3xGqncKakU2xSt) - .NET Conf 2023会议：生成式AI入门 - 一个30分钟的介绍生成式AI的核心概念以及示例代码。
 - [用.NET和Azure构建智能应用程序](https://www.youtube.com/watch?v=-3SrUqjq9Ic&list=PLdo4fOcmZ0oULyHSPBx-tQzePOYlhvrAU) - .NET Conf 2023会议，通过Azure OpenAI SDK，引导走 through OpenAI APIs using .NETthrough OpenAI APIs using .NET。
 - [OpenAI与.NET示例笔记本](https://github.com/Azure-Samples/openai-dotnet-samples) | [公告帖子](https://devblogs.microsoft.com/dotnet/getting-started-azure-openai-dotnet/) - 大量示例笔记本（使用Polyglot笔记本），展示如何用.NET执行对OpenAI的各种操作。
@@ -52,6 +55,7 @@
 ## 教程
 
 - [用AI构建你自己的课程助手](https://youtu.be/BRaltelZt6U?si=uuUvRc_9jSW4L601) "你在使用Azure OpenAI服务构建Copilot应用吗？你理解Copilot Stack的概念吗？在这次会议中，我们将使用Semantic Kernel构建您的第一个基于Copilot Stack的Copilot应用程序。" - 由Luis Quintanilla（微软）和Kinfey Lo（微软）主持
+- [.NET Semantic Kernel 教程: 从零到浣熊英雄](https://www.youtube.com/playlist?list=PLPK0YODPQ5naaUwDNFay0mlRwaV_AbrX6) - 此视频教程系列，展示了如何使用Azure OpenAI、.NET、语义内核（Semantic Kernel）和OpenTelemetry创建一个生产就绪的大型语言模型（LLM）工具。
 
 ## 参考应用程序
 
@@ -60,8 +64,8 @@
 
 ## 使用本地模型
 
-- [Torchsharp-phi](https://github.com/LittleLittleCloud/Torchsharp-phi) - 一个基于Torchsharp实现的Phi模型。
-- [使用TorchSharp操作Llama2](https://github.com/LittleLittleCloud/Torchsharp-llama) -一个基于Torchsharp实现的llama-2模型。
+- [Torchsharp-phi](https://github.com/LittleLittleCloud/Torchsharp-phi) - 一个基于 [Torchsharp](https://github.com/dotnet/TorchSharp) 实现的Phi模型。
+- [使用TorchSharp操作Llama2](https://github.com/LittleLittleCloud/Torchsharp-llama) -一个基于 [Torchsharp](https://github.com/dotnet/TorchSharp) 实现的llama-2模型。
 
 ## 使用多模态模型
 
@@ -75,12 +79,19 @@
 - [AugmentR](https://github.com/bradygaster/AugmentR) - 一个示例聊天机器人，展示了如何在.NET Aspire项目中使用Semantic Kernel，通过公共互联网URL的数据增强聊天。
 - [Vector Search AI助手](https://github.com/Azure/Vector-Search-AI-Assistant/tree/cognitive-search-vector) - 演示如何结合来自CosmosDB的数据，并通过认知搜索进行查询，创建AI搜索助手的应用程序。
 - [使用MongoDB的Vector Search AI助手](https://github.com/Azure/Vector-Search-AI-Assistant-MongoDBvCore) - 演示如何结合来自Azure CosmosDB for MongoDB的数据，并通过Azure OpenAI服务进行查询的应用程序。
+- [Azure 上的检索增强生成示例](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples/) - 包括许多 C# 示例，演示如何使用 CosmosDB + MongoDB 或 NoSQL。
+
 
 ## 使用 Assistants/Agents
 
 - [Azure OpenAI：OpenAI助手客户端库](https://learn.microsoft.com/en-us/dotnet/api/overview/azure/ai.openai.assistants-readme?view=azure-dotnet-preview) - **[预发布]** Azure OpenAI SDK中OpenAI助手支持的参考文档，包括示例代码。
 
 ## 在不同工作负载/应用类型中包含AI
+
+### NET MAUI - 移动开发
+- [教程：使用 .NET MAUI 和 ChatGPT 创建推荐应用](https://learn.microsoft.com/en-us/windows/apps/windows-dotnet-maui/tutorial-maui-ai) - 指导教程，介绍如何创建适用于 ChatGPT 的简单 .NET MAUI 应用程序。
+- [快速入门：将 DALL-E 添加到 .NET MAUI Windows 桌面应用](https://learn.microsoft.com/en-us/windows/apps/windows-dotnet-maui/dall-e-maui-windows) - 指导教程，演示如何创建使用 DALL-E 生成映像的简单 .NET MAUI 应用程序。
+
 
 ### Teams
 
@@ -89,9 +100,12 @@
 
 # SDK
 
+## Semantic Kernel
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - 微软构建的SDK，允许您“构建可以调用现有代码的代理”。为在.NET中工作提供了本地支持。
+- [Semantic Kernel Cookbook](https://github.com/microsoft/SemanticKernelCookBook) - 使用语义内核实现常见任务的一组示例，以及可供 .NET 开发人员使用的多语言笔记本。
 ## 协调器
 
-- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - 微软构建的SDK，允许您“构建可以调用现有代码的代理”。为在.NET中工作提供了本地支持。
+
 - [LangChain](https://github.com/tryAGI/LangChain/) **[非官方]** -.NET中广受欢迎的LangChain Python项目的实现。注意：目前它处于早期状态，正在寻找贡献者！
 
 ## 向量存储SDK
@@ -99,8 +113,9 @@
 - [NRedis Stack .NET SDK](https://github.com/redis/NRedisStack) - 用Redis做向量搜索的.NET开发工具库
 - [Redis OM for .NET](https://redis.io/docs/latest/integrate/redisom-for-net/) - 用Redis做对象搜索和语义缓存的.NET开发框架
 - [Milvus C# SDK](https://milvus.io/docs/v2.2.x/install-csharp.md) - 用于与Milvus向量DB解决方案一起工作的.NET SDK。
-- [Qdrant .NET SDK](https://github.com/qdrant/qdrant-dotnet) - SDK用于与Qdrant向量DB一起工作。
 - [Pinecone](https://github.com/neon-sunset/Pinecone.NET) - **[非官方]** 社区支持的SDK，用于与Pinecone向量DB一起工作。
+- [Qdrant .NET SDK](https://github.com/qdrant/qdrant-dotnet) - SDK用于与Qdrant向量DB一起工作。
+- [Weaviate](https://github.com/Unipisa/WeaviateNET) - [非官方] 社区支持使用 Weaviate vector DB 的 SDK。
 
 ## 人工智能服务
 
