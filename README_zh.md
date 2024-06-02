@@ -20,9 +20,11 @@
 - [教程和示例](#tutorials)
   - [使用本地模型](#working-with-local-models)
   - [处理数据/检索增强生成](#working-with-data)
-  - [使用助手/代理](#using-assistants--agents)
+  - [使用助手/代理](#使用-assistantsagents)
   - [在不同工作负载/应用类型中包含AI](#include-ai-in-different-workloadsapp-types)
 - [SDK](#sdks)
+  - [Semantic Kernel](#semantic-kernel)
+  - [AutoGen.Net](#autogennet)
   - [协调器](#orchestrators)
   - [向量存储SDK](#vector-store-sdks)
 - [AI服务](#ai-services)
@@ -89,9 +91,14 @@
 
 # SDK
 
-## 协调器
+## Semantic Kernel
+- [Overview - Semantic Kernel](https://github.com/microsoft/semantic-kernel) - 一个由微软构建的SDK，允许您“构建可以调用现有代码的代理”。提供了在.NET中工作的本地支持。
+- [Semantic Kernel Cookbook](https://github.com/microsoft/SemanticKernelCookBook) - 使用Semantic Kernel实现常见任务的示例集合，提供了.NET开发人员的Polyglot笔记本。
 
-- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - 微软构建的SDK，允许您“构建可以调用现有代码的代理”。为在.NET中工作提供了本地支持。
+## AutoGen.Net
+- [AutoGen.Net](https://microsoft.github.io/autogen-for-net/) - [AutoGen](https://microsoft.github.io/autogen/)的官方.NET实现。AutoGen是由MS Research构建的多代理对话框架，允许您轻松构建多代理对话和工作流程。
+
+## 协调器
 - [LangChain](https://github.com/tryAGI/LangChain/) **[非官方]** -.NET中广受欢迎的LangChain Python项目的实现。注意：目前它处于早期状态，正在寻找贡献者！
 
 ## 向量存储SDK

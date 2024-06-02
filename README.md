@@ -20,9 +20,11 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 - [Tutorials and Samples](#tutorials)
   - [Working with Local Models](#working-with-local-models)
   - [Working with Data / Retrieval-Augmented-Generation)](#working-with-data)
-  - [Using Assistants/Agents](using-assistantsagents)
+  - [Using Assistants/Agents](#using-assistantsagents)
   - [Include AI in different workloads/app types](#include-ai-in-different-workloadsapp-types)
 - [SDKs](#sdks)
+  - [Semantic Kernel](#semantic-kernel)
+  - [AutoGen.Net](#autogennet)
   - [Orchestrators](#orchestrators)
   - [Vector Stores](#vector-store-sdks)
 - [AI Services](#ai-services)
@@ -100,6 +102,9 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 ## Semantic Kernel
 - [Overview - Semantic Kernel](https://github.com/microsoft/semantic-kernel) - SDK built by Microsoft that lets you "build agents that can call your existing code." Provides native support for working in .NET.
 - [Semantic Kernel Cookbook](https://github.com/microsoft/SemanticKernelCookBook) - A set of examples for achieving common tasks using Semantic Kernel, with Polyglot Notebooks available for .NET developers.
+
+## AutoGen.Net
+- [AutoGen.Net](https://microsoft.github.io/autogen-for-net/) - Official .NET implementation of the [AutoGen](https://microsoft.github.io/autogen/) python project. AutoGen is a multi-agent conversation framework built by MS Research that allows you to easily construct multi-agent conversation and workflows.
 
 ## Orchestrators
 
