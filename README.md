@@ -99,12 +99,15 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 # SDKs
 
+## AutoGen.Net
+- [AutoGen.Net](https://microsoft.github.io/autogen-for-net/) - Official .NET implementation of the [AutoGen](https://microsoft.github.io/autogen/) python project. AutoGen is a multi-agent conversation framework built by MS Research that allows you to easily construct multi-agent conversation and workflows.
+  
+## OpenAI
+- [OpenAI .NET Library](https://github.com/openai/openai-dotnet) - **[Pre-release]** The official .NET Library for OpenAI. [Announcement blog post](https://devblogs.microsoft.com/dotnet/openai-dotnet-library/)
+
 ## Semantic Kernel
 - [Overview - Semantic Kernel](https://github.com/microsoft/semantic-kernel) - SDK built by Microsoft that lets you "build agents that can call your existing code." Provides native support for working in .NET.
 - [Semantic Kernel Cookbook](https://github.com/microsoft/SemanticKernelCookBook) - A set of examples for achieving common tasks using Semantic Kernel, with Polyglot Notebooks available for .NET developers.
-
-## AutoGen.Net
-- [AutoGen.Net](https://microsoft.github.io/autogen-for-net/) - Official .NET implementation of the [AutoGen](https://microsoft.github.io/autogen/) python project. AutoGen is a multi-agent conversation framework built by MS Research that allows you to easily construct multi-agent conversation and workflows.
 
 ## Orchestrators
 
@@ -121,6 +124,6 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 ## AI Services
 
-- [Azure OpenAI](https://learn.microsoft.com/en-us/azure/ai-services/openai/) - An overview of the Azure OpenAI service and including [Quick Start samples for .NET](https://learn.microsoft.com/en-us/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Cpython&pivots=programming-language-csharp).
+- [Azure OpenAI](https://learn.microsoft.com/en-us/azure/ai-services/openai/) - **[Pre-release]** An overview of the Azure OpenAI service and including [Quick Start samples for .NET](https://learn.microsoft.com/en-us/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Cpython&pivots=programming-language-csharp).
 - [Azure OpenAI Service Samples](https://github.com/Azure-Samples/openai/) - Sample notebooks demonstrating how to use the Azure OpenAI SDK, with may samples in C#/.NET as Polyglot Notebooks.
 - [Azure Functions bindings for OpenAI's GPT engine](https://github.com/Azure/azure-functions-openai-extension) - **[In Development]** Very early review of new OpenAI bindings in Azure Functions, including support for C#.
