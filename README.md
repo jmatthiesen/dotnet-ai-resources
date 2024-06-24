@@ -23,6 +23,7 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
   - [Using Assistants/Agents](using-assistantsagents)
   - [Include AI in different workloads/app types](#include-ai-in-different-workloadsapp-types)
 - [SDKs](#sdks)
+  - [Semantic Kernel](#semantic-kernel)
   - [Orchestrators](#orchestrators)
   - [Vector Stores](#vector-store-sdks)
 - [AI Services](#ai-services)
