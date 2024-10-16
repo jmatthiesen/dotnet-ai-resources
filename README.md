@@ -33,7 +33,7 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 - [Generative AI with .NET for Beginners](https://youtube.com/playlist?list=PLdo4fOcmZ0oW_k4_eDTPWDLUVWz7A9y0M&si=c7B1fz4oQQYHEfy2) - An introductory course from Microsoft, summarizing the differences betwen Generative AI, Machine Learning (ML) and how you can get started with both.
   - [Source code for AI Beginner Series](https://github.com/dotnet/beginner-series/tree/main/Artificial%20Intelligence%20and%20Machine%20Learning) - The presentation and sample source from the above intro series.
-- [Generative AI for the .NET Developer | .NET Conf 2023](https://youtu.be/yc0Zl_UXCY4?si=ko3xGqncKakU2xSt) - .NET Conf 2023 session: Intro to Generative AI - a 30 minute intro to the core concepts of Gen AI along with sample code.
+- [.NET Conf: Focus on AI 2024 event](https://www.youtube.com/watch?v=0btB9W04y0Q&list=PLdo4fOcmZ0oX7Yg1cixIj6hXjz9C5MHJR) - A 2024 event hosted by the .NET team and friends. This event includes intros and some deep dives into a variety of .NET + AI related topics.
 - [Building Intelligent Apps with .NET and Azure](https://www.youtube.com/watch?v=-3SrUqjq9Ic&list=PLdo4fOcmZ0oULyHSPBx-tQzePOYlhvrAU) - .NET Conf 2023 session with a guided walkthrough to using OpenAI APIs, through the Azure OpenAI SDK, with .NET.
 - [OpenAI with .NET Samples Notebook](https://github.com/Azure-Samples/openai-dotnet-samples) | [Announcement Post](https://devblogs.microsoft.com/dotnet/getting-started-azure-openai-dotnet/) - Lots of sample notebooks (using Polyglot notebooks) showing how to perform various actions against OpenAI with .NET.
 - [Blog series; Get started with OpenAI in .NET](https://devblogs.microsoft.com/dotnet/getting-started-azure-openai-dotnet/) - Blog series overview of using OpenAI with .NET (other posts in the series included below):
@@ -59,8 +59,9 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 ## Reference Applications
 
-- [Azure Search with OpenAI - C# Sample](https://github.com/Azure-Samples/azure-search-openai-demo-csharp/) - [Documentation](https://learn.microsoft.com/dotnet/azure/ai/get-started-app-chat-template?tabs=github-codespaces) | [Announcement Post](https://devblogs.microsoft.com/dotnet/transform-business-smart-dotnet-apps-azure-chatgpt/) ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search (.NET) 
-- [eShop Reference Application](https://github.com/dotnet/eShop/)
+- [Azure Search with OpenAI - C# Sample](https://github.com/Azure-Samples/azure-search-openai-demo-csharp/) - [Documentation](https://learn.microsoft.com/dotnet/azure/ai/get-started-app-chat-template?tabs=github-codespaces) | [Announcement Post](https://devblogs.microsoft.com/dotnet/transform-business-smart-dotnet-apps-azure-chatgpt/) ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search (.NET)
+- [eShop Reference Application](https://github.com/dotnet/eShop/) - An eCommerce sample application built on .NET 8, .NET Aspire, and using Semantic Kernel to demonstrate an AI chat bot.
+- [eShopSupport](https://github.com/dotnet/eShopSupport] - A sample customer support application for the eShop eCommerce solution. This sample demonstrates a variety of AI features: data generation, sentiment analysis, entity extraction, summarization, classification, as well as chat interactions.
   
 ## Working with Local Models
 
