@@ -86,6 +86,8 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 - [Getting started using Azure OpenAI Assistants with C#](https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-quickstart?tabs=command-line&pivots=programming-language-csharp) - **[Pre-release]** A walkthrough showing how to use AI assistants with the Azure OpenAI SDK and C#.
 
+- [AntRunner](https://github.com/douglasware/antrunner) - A complete set of .NET tools for creating and using Open AI and Azure Open AI Assistants with support for vector stores, code interpreter files, and function calling with local .NET functions and REST APIs with auth.
+
 ## Include AI in different workloads/app types
 
 ### ASP.NET Core
