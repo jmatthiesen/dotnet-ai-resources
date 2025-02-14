@@ -59,6 +59,10 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 - [eShop Reference Application](https://github.com/dotnet/eShop/) - An eCommerce sample application built on .NET 8, .NET Aspire, and using Semantic Kernel to demonstrate an AI chat bot.
 - [eShopSupport](https://github.com/dotnet/eShopSupport) - A sample customer support application for the eShop eCommerce solution. This sample demonstrates a variety of AI features: data generation, sentiment analysis, entity extraction, summarization, classification, as well as chat interactions.
   
+## Working with Agents
+
+- [Creative Writer - using Semantic Kernel, Aspire, and JS frontend](https://learn.microsoft.com/en-us/samples/azure-samples/aspire-semantic-kernel-creative-writer/aspire-semantic-kernel-creative-writer/)
+
 ## Working with Local Models
 
 - [Using Phi2 with TorchSharp](https://github.com/LittleLittleCloud/Torchsharp-phi) - A sample demonstrating how to access the Phi2 model in your local system, using .NET with the help of the [TorchSharp](https://github.com/dotnet/TorchSharp) library.
